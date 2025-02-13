@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Dante Lugo
 
 ## 🚀 Sobre mí
-Soy un **Desarrollador FullStack** apasionado por la tecnología y la programación. Actualmente, estudio la **Licenciatura en Sistemas** en la Universidad Nacional de Lanús y me especializo en el desarrollo web y análisis de datos.
+Soy un **Desarrollador FullStack** apasionado por la tecnología y la programación. Actualmente, estudio la **Licenciatura en Sistemas** en la Universidad Nacional de Lanús y me especializo en el desarrollo web fullstack.
 
 📍 **Ubicación:** Guernica, Buenos Aires, Argentina  
 📧 **Email:** [dantelugo1505@gmail.com](mailto:dantelugo1505@gmail.com)  
